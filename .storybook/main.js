@@ -10,6 +10,7 @@ module.exports = {
     ,
     '@storybook/addon-links',
     '@storybook/addon-essentials',
+    '@storybook/addon-controls',
   ],
   // https://storybook.js.org/docs/react/configure/typescript#mainjs-configuration
   typescript: {
